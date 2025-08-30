@@ -14,7 +14,7 @@ FitGenie is a multi-agent system that assists users in achieving their fitness g
 </p>
 
 <ul>
-  <li>🏋️ <strong>Fitness Gap Specialist</strong>: Analyzes your workout routine and finds missing elements </li>
+  <li>🏋️ <strong>Fitness Gap Specialist</strong>: Analyzes your workout routine and finds missing elements</li>
   <li>🥗 <strong>Nutrition Advisor</strong>: Suggests dietary tips based on your goal</li>
   <li>📚 <strong>Course Recommender</strong>: Recommends online courses/tutorials for specific workouts</li>
 </ul>
